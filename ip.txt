@@ -1,0 +1,13 @@
+imports for anaconda
+conda install -c conda-forge opencv
+conda install numpy
+conda install scikit-learn
+conda install matplotlib
+conda install pillow
+
+or
+
+pip install opencv-python
+pip install numpy
+pip install scikit-learn
+pip install install matplotlib
