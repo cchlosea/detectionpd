@@ -11,3 +11,18 @@ pip install opencv-python
 pip install numpy
 pip install scikit-learn
 pip install install matplotlib
+
+or
+
+conda install -c conda-forge opencv
+conda install -c conda-forge tensorflow
+conda install scikit-learn
+conda install numpy
+conda install matplotlib
+conda install -c conda-forge opencv tensorflow scikit-learn numpy matplotlib
+conda install -c conda-forge opencv tensorflow scikit-learn numpy
+
+yolov3.weights download by patrick013/Object-Detection
+yolov3
+
+https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
